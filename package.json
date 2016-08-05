@@ -1,7 +1,7 @@
 {
-  "name": "lightspeedc-qiita-heroku1",
+  "name": "m-kobayashi71.heroku",
   "version": "0.0.0",
-  "description": "lightspeedc-qiita-heroku1",
+  "description": "m-kobayashi71.heroku",
   "main": "index.js",
   "engines": {
     "node": "6"
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "LightSpeedC/lightspeedc-qiita-heroku1"
+    "url": "m-kobayashi71/m-kobayashi71.heroku"
   },
   "keywords": [
     "heroku"
   ],
-  "author": "LightSpeedC",
+  "author": "m-kobayashi71",
   "license": "MIT"
 }
